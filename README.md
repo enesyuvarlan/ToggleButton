@@ -1,7 +1,7 @@
 # ToggleButton
 ### Preview
+![ToggleButton](https://github.com/nsyvrln/ToggleButton/assets/32177958/56ee3b6a-b995-4d87-ba93-bf7ae4093a9b)
 
-![ToggleButton](https://github.com/nsyvrln/ToggleButton/assets/32177958/2609220f-2ecd-49f8-a066-57a12b38c323)
 
 ### How To Use
 ```html
